@@ -38,6 +38,15 @@
 
 - [Demo](http://txt2speechbucket.s3-website.us-east-2.amazonaws.com/)
 
+### Screenshots and Audio
+
+![ScreenShot](Images/Screenshot%202023-09-07%20190640.png)
+
+<!-- Add a audio of a project -->
+
+[Audio](Audio/Hello%20World.mp3)
+[Audio](Audio/Hello%20World1.mp3)
+
 ## Contributing
 
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
